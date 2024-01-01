@@ -9,3 +9,25 @@ To provide an online platform for customers to register for membership and event
 # SCOPE
 
 The main objective for this product is built to provide easy interaction to customer and admins of sports complex where customers can register and apply for membership and can update their details and are also able to make payment and generate payment reports. Admins can able to add staff details who are working in the complex and can also able to update and delete their details. They are also able to generate user reports. 	
+
+
+# FUNCTIONAL REQUIREMENTS
+The functional requirement in Sports Complex Management System is the collective 
+information about what are the operations available in the system.
+➢ It provides the apply functionality for events and membership for the customers to 
+apply the membership and event for the particular sport.
+➢ It should provide the functionality of authentication for the valid users it maybe 
+customer or admin.
+➢ The system shall have a cancel function for the Customer to cancel the membership. 
+➢ The system allows the admin to add staff, coach, stadium, event, sport and sport 
+equipment details. 
+➢ The system allows the admin to cancel and update the staff, coach, stadium, event, 
+sport and sport equipment details.
+
+# DESIGN COMPONENTS
+## Front End:
+The Sports Complex Management System uses HTML, CSS, Bootstrap and Angular 
+for developing interactive pages.
+## Back End:
+The Sports Complex Management System uses NodeJS and mongoDB for the 
+backend process.
